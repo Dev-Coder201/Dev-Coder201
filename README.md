@@ -1,7 +1,3 @@
-Here’s a **Microsoft Dynamics Developer** profile for **Ali**:  
-
----
-
 **👋 Hi, I’m Ali**  
 🚀 **Microsoft Dynamics 365 Developer | CRM & ERP Specialist**  
 
@@ -23,15 +19,5 @@ Here’s a **Microsoft Dynamics Developer** profile for **Ali**:
 - Custom integrations & extensions for CRM/ERP systems  
 - Data analytics & reporting for enterprise solutions  
 
-**📫 How to reach me...**  
-- Email: [your.email@example.com]  
-- LinkedIn: [linkedin.com/in/yourprofile]  
-
-**😄 Pronouns:** He/Him  
-
 **⚡ Fun fact:**  
 I make business processes so efficient, even Dynamics 365 runs faster for me! ⚙️🚀  
-
----
-
-Let me know if you need any changes! 😊
